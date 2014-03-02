@@ -14,6 +14,7 @@ Start your project on the right foot!
 
 1. `git clone git@github.com:hyanmandian/start.git`
 2. `cd start/`
+4. Install gulp globally: `npm install -g gulp`
 3. Install gulp plugins: `npm install`
 
 ## Usage
