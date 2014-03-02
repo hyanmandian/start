@@ -1,0 +1,13 @@
+// ---- Normalize ---- //
+@import 'vendor/normalize';
+
+// ---- Compass ---- //
+@import 'compass';
+
+*, *:before, *:after {
+    @include box-sizing('border-box');
+}
+
+body{
+	background: red;
+}
