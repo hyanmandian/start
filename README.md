@@ -17,7 +17,7 @@ Start your project on the right foot!
 
 ## Usage
 
-I use gulp as a tool to automate tasks. I’ve created `appConfig` where you set the folders and configure the deploy server of FTP.
+I use gulp as a tool to automate tasks. Set up your folders and configure your FPT using var appConfig.
 
 The following tasks:
 
