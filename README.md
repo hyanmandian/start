@@ -38,3 +38,4 @@ The following tasks:
 ## Credits
 
 + [HTML5 Boilerplate](http://html5boilerplate.com/ "HTML5BP")
++ [Raphael Braun](https://www.facebook.com/mbraun.raphael "Raphael Braun") for the translation because my english sucks.
