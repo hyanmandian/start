@@ -8,6 +8,7 @@ Start your project on the right foot!
 ## Requirements
 
 + [Node.js](http://nodejs.org/ "Node.js")
++ LiveReload to reload your browser on modified files. Plugin avaible for [Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei "Chrome") and [Firefox](https://addons.mozilla.org/pt-br/firefox/addon/livereload/ "Firefox")
 
 ## Installation
 
@@ -25,6 +26,7 @@ The following tasks:
 + `gulp js` - To concatenate, make a lint and minify the js
 + `gulp img` - To optimize images
 + `gulp deploy` - To deploy using FTP
++ `gulp watch` - To execute tasks when scss, js and image files of dev folder are changed
  
 ## Contributing
 
