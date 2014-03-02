@@ -21,10 +21,10 @@ I use gulp as a tool to automate tasks. Set up your folders and configure your F
 
 The following tasks:
 
-+ `gulp css` - To compile and minify the scss.
-+ `gulp js` - To concatenate, make a lint and minify the js.
-+ `gulp img` - To optimize images.
-+ `gulp deploy` - To deploy using FTP.
++ `gulp css` - To compile and minify the scss
++ `gulp js` - To concatenate, make a lint and minify the js
++ `gulp img` - To optimize images
++ `gulp deploy` - To deploy using FTP
  
 ## Contributing
 
@@ -38,4 +38,4 @@ The following tasks:
 ## Credits
 
 + [HTML5 Boilerplate](http://html5boilerplate.com/ "HTML5BP")
-+ [Raphael Braun](https://www.facebook.com/mbraun.raphael "Raphael Braun") for the translation because my english sucks.
++ [Raphael Braun](https://www.facebook.com/mbraun.raphael "Raphael Braun") for the translation because my english sucks
