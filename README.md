@@ -8,14 +8,22 @@ Start your project on the right foot!
 ## Requirements
 
 + [Node.js](http://nodejs.org/ "Node.js")
++ [Bower](http://bower.io/ "Bower")
 + LiveReload to reload your browser on modified files. Plugin avaible for [Chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei "Chrome") and [Firefox](https://addons.mozilla.org/pt-br/firefox/addon/livereload/ "Firefox")
 
-## Installation
+## Quick start
 
-1. `git clone git@github.com:hyanmandian/start.git`
-2. `cd start/`
-4. Install gulp globally: `npm install -g gulp`
-3. Install gulp plugins: `npm install`
++ [Download the latest release.](https://github.com/hyanmandian/start/archive/master.zip "Download the latest release.")
++ Clone repo: `git clone git@github.com:hyanmandian/start.git`
++ Install with Bower: `bower install start`
+
+
+## Gulp
++ Install gulp globally: `npm install -g gulp`
++ Install gulp plugins: `npm install`
+
+## Bower
++ Install bower dependencies `bower install`
 
 ## Usage
 
