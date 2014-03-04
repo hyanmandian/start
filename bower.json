@@ -18,7 +18,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "public/vendor",
+    "public/vendor"
   ],
   "devDependencies": {
     "modularized-normalize-scss": "~3.0.0",
