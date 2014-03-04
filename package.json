@@ -1,8 +1,18 @@
 {
-  "name": "Boilerplate",
+  "name": "Start",
+  "description": "Start your project on the right foot!",
   "version": "1.0.0",
-  "description": "My config",
-  "author": "Hyan Mandian",
+  "keywords": [
+    "boilerplate",
+    "start",
+    "html5",
+    "sass",
+    "gulp",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://github.com/hyanmandian/start/",
+  "author": "Hyan Mandian <hyanmandian@hotmail.com>",
   "devDependencies": {
     "gulp": "^3.5.2",
     "gulp-concat": "^2.1.7",
