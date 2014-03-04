@@ -13,7 +13,7 @@ Start your project on the right foot!
 
 ## Quick start
 
-+ [Download the latest release.](https://github.com/hyanmandian/start/archive/master.zip "Download the latest release.")
++ [Download the latest release.](https://github.com/hyanmandian/start/archive/master.zip "Start")
 + Clone repo: `git clone git@github.com:hyanmandian/start.git`
 + Install with Bower: `bower install start`
 
@@ -23,7 +23,7 @@ Start your project on the right foot!
 + Install gulp plugins: `npm install`
 
 ## Bower
-+ Install bower dependencies `bower install`
++ Install bower dependencies: `bower install`
 
 ## Usage
 
